@@ -9,3 +9,5 @@ my current "accomplishments":
  - [scenexeImageGen](https://replit.com/@ChromaticPixels/scenexeImageGen) (turns images into JSON tank codes for the [scenexe.io](https://scenexe.io) test server)
 
 my stuff is in [replit](https://replit.com/@ChromaticPixels) because i'm lazy and it's convenient
+
+### i'll use HTML instead of markdown once i stop being lazy
