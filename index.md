@@ -1,6 +1,4 @@
-# re
-
-_github pages because why not_
+###### _github pages because why not_
 
 i make random stuff when i feel like it, mostly in python
 
